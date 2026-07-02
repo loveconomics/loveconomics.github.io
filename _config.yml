@@ -25,6 +25,7 @@ author:
   # Biographic information
   avatar           : "images/Profile.png"
   name             : "Kevin Sterling"
+  description      : &description "Ph.D. Candidate in Economics"
   pronouns         : # example: "she/her"  
   bio              : "Environmental Economics<br>Macroeconomics<br>Econometrics"
   location         :  
