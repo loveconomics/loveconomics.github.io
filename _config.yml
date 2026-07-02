@@ -23,7 +23,7 @@ repository               : "loveconomics/kevinsterling.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Profile.png""
+  avatar           : "images/Profile.png"
   name             : "Kevin Sterling"
   pronouns         : # example: "she/her"  
   bio              : "Environmental Economics<br>Macroeconomics<br>Econometrics"
