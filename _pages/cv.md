@@ -3,7 +3,9 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
+**📄 [Download PDF](/files/Sterling_CV.pdf)**
 
+---
 <object
     data="/files/Sterling_CV.pdf"
     type="application/pdf"
