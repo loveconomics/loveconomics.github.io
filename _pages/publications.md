@@ -15,17 +15,14 @@ with Alecos Papadopoulos and Christopher F. Parmeter
 ## Works in Progress
 
 **The Social Cost of Waste**  
-[Paper]
 
 **Price and Quantity Regulation in an Inflationary Economy**  
 with David L. Kelly  
-[Paper]
+
 
 **Default without Discharge**  
 with Stefania Albanesi and Jiaqi Yang   
-[Paper]
 
 **Credit Scores as a Financial Accelerator**  
-[Paper]
 
 
