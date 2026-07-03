@@ -37,3 +37,13 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+
+/* Custom navigation spacing */
+.site-title {
+    margin-right: 100px;
+}
+
+.greedy-nav .visible-links li {
+    margin-left: 30px;
+}
