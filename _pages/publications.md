@@ -18,7 +18,7 @@ author_profile: true
 with David L. Kelly  
 
 3. **Default without Discharge**  
-with Stefania Albanesi and Jiaqi Yang   
+with Stefania Albanesi and Jiaqi Wang   
 
 4. **Credit Scores as a Financial Accelerator**  
 
