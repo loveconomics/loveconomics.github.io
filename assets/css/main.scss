@@ -38,5 +38,33 @@
     "layout/json_cv"
 ;
 
+/* Full navbar color override */
+.masthead,
+.masthead__inner-wrap,
+.masthead__menu,
+#site-nav,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .visible-links li,
+.greedy-nav .visible-links li a {
+  background-color: #1B4332 !important;
+}
 
+/* Link colors */
+.greedy-nav a,
+.site-title {
+  color: white !important;
+}
+
+/* Hover color */
+.greedy-nav a:hover,
+.site-title:hover {
+  color: #d4d4d4 !important;
+}
+
+/* Optional: active underline */
+.greedy-nav .visible-links li a:before,
+.greedy-nav .visible-links li a:after {
+  background-color: white !important;
+}
 
