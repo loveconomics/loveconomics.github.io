@@ -1,9 +1,8 @@
 ---
 title: "Introduction to Macroeconomics"
 collection: teaching
-type: "Undergraduate course"
-term: "Fall 2026"
+type: "Undergraduate"
 venue: "University of Miami"
-permalink: 
+date: 2026-08-15
 ---
 
