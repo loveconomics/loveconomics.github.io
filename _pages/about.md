@@ -10,6 +10,8 @@ I am an environmental economist studying externalities, with an interest in wast
 
 I also work on broader macroeconomic questions such as business cycles and consumer finance.
 
+I am currently completing my PhD in Economics at the University of Miami under the supervision of David L. Kelly. 
+
 Outside of academia, I love spending time with wife, our son and our long-haired dachshund, Toni. I also compete in triathlons. 
 
 ## Upcoming Presentations
