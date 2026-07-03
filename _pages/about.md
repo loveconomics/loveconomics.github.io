@@ -8,6 +8,10 @@ redirect_from:
 ---
 I am an environmental economist studying externalities, with an interest in waste management, climate change, and environmental policy. 
 
+I also work on broader macroeconomic questions such as business cycles and consumer finance.
+
+Outside of work, I love spending time with wife, our son and our long-haired dachshund, Toni. 
+
 ## Upcoming Presentations
 
 | Date | Event | Location | Papers |
