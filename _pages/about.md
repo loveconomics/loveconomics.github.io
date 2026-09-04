@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an environmental economist studying externalities, with an interest in waste management, climate change, and environmental policy. 
-
-I also work on broader macroeconomic questions such as business cycles and consumer finance.
+I am an environmental economist studying externalities, with an interest in waste management, climate change, and their application to environmental policy. 
 
 I am currently completing my PhD in Economics at the University of Miami under the supervision of David L. Kelly. 
 
