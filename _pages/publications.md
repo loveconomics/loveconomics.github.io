@@ -17,9 +17,8 @@ author_profile: true
 2. **Price and Quantity Regulation in an Inflationary Economy**  
 with David L. Kelly  
 
-3. **Default without Discharge**  
-with Stefania Albanesi and Jiaqi Wang   
+3. **The Circular Economy** (Book)
 
-4. **Credit Scores as a Financial Accelerator**  
+
 
 
