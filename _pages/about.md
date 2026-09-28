@@ -17,5 +17,6 @@ Outside of academia, I love spending time with my wife, our son and our long-hai
 | Date | Event | Location | Papers |
 |:-----|:------|:---------|:-------|
 | November 21-23, 2026 | Southern Economic Association 96th Annual Meeting | Houston, TX | • *The Social Cost of Waste*<br> • *Price and Quantity Regulation in an Inflationary Economy* (with David L. Kelly) |
+| January 3-5, 2027 | ASSA Annual Meeting | Washington, DC | •   |
 | April 2-4, 2027 | Midwest Economics Association 91st Annual Meeting| Indianapolis, IN | • *Price and Quantity Regulation in an Inflationary Economy* (with David L. Kelly) |
 
